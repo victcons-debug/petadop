@@ -16,6 +16,9 @@ _Agregar aquí al menos 3 capturas una vez la app esté corriendo: home (`/`), l
 |---|---|---|
 | _captura1.png_ | _captura2.png_ | _captura3.png_ |
 
+
+
+
 ## Stack tecnológico
 
 - Next.js 14 (App Router)
@@ -95,3 +98,4 @@ _Crear dos cuentas de prueba (una por rol) desde `/register` y anotarlas aquí, 
 ## AUTOR
 
 Víctor Constante
+Repositorio:https://github.com/victcons-debug/petadop
