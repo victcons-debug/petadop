@@ -15,6 +15,12 @@ _Agregar aquí al menos 3 capturas una vez la app esté corriendo: home (`/`), l
 | Home | Listado de mascotas | Dashboard |
 |---|---|---|
 | _captura1.png_ | _captura2.png_ | _captura3.png_ |
+<img width="886" height="389" alt="image" src="https://github.com/user-attachments/assets/bc738eb3-176e-4f96-82ef-8d152a87cbde" />
+<img width="886" height="327" alt="image" src="https://github.com/user-attachments/assets/f5eff4de-14ff-4b75-a8d0-77a69470e7ae" />
+<img width="886" height="430" alt="image" src="https://github.com/user-attachments/assets/76833d4b-1e1e-4d71-9328-0af8c6b8181d" />
+<img width="886" height="470" alt="image" src="https://github.com/user-attachments/assets/d590a490-2400-4ce7-b3a4-7ab86aca3400" />
+
+
 
 
 
