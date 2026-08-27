@@ -93,6 +93,5 @@ _Crear dos cuentas de prueba (una por rol) desde `/register` y anotarlas aquí, 
 - [x] Consumo de API externa (Dog CEO API) con `fetch` + `async/await` y manejo de errores
 - [x] `.env.local` fuera del repositorio (`.gitignore`)
 
-## Autor
 
-Tu nombre — agrega aquí tu perfil de GitHub o LinkedIn.
+
