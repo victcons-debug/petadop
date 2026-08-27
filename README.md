@@ -92,6 +92,6 @@ _Crear dos cuentas de prueba (una por rol) desde `/register` y anotarlas aquí, 
 - [x] Buscador/filtro con `useState` (`BuscadorMascotas`)
 - [x] Consumo de API externa (Dog CEO API) con `fetch` + `async/await` y manejo de errores
 - [x] `.env.local` fuera del repositorio (`.gitignore`)
+## AUTOR
 
-
-
+Víctor Constante
