@@ -3,7 +3,7 @@
 Plataforma que conecta **refugios de animales** con **familias adoptantes**. Los refugios publican
 mascotas disponibles y los adoptantes pueden explorarlas, filtrarlas y enviar solicitudes de adopción.
 
-🔗 Demo en vivo: `https://tu-proyecto.vercel.app` (actualizar después del deploy en Vercel)
+🔗 Demo en vivo: `https://petadop.vercel.app` (actualizar después del deploy en Vercel)
 
 🎥 Video de defensa: `https://youtu.be/TU-VIDEO` (subir a YouTube como "no listado" o a Google Drive)
 
